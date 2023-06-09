@@ -1,5 +1,8 @@
 // stands for file system
 const fs = require("fs")
+/*
+FILE
+*/
 // const path = require("path")
 // const text = fs.readFileSync(
 //   path.resolve(__dirname, "./starter/txt/input.txt"),
